@@ -5,7 +5,7 @@ import os
 
 ventana = turtle.Screen()
 ventana.bgpic()
-ventana.bgpic("landscape3.gif")
+ventana.bgpic("landscape.gif")
 ventana.title(' Snake ')
 ventana.setup(width = 700, height = 700)
 ventana.tracer(0)								# Hace animaciones mas interactivas con el usuario
